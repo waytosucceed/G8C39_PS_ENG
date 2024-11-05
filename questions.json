@@ -1,0 +1,250 @@
+{
+  "heading": "Passive Voice and Verb Tenses",
+  "topics": [
+    {
+      "heading": "Active and Passive Voice <br> (Simple Present, Simple Past, Present Perfect and Past Perfect)",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank appropriately:<br> The intricate calculations required for the analysis ___ by specialized software, ensuring precision.",
+          "options": [
+            "is being done",
+            "are completed",
+            "are being carried out",
+            "is carried out"
+          ],
+          "answer": 2,
+          "explanation": "In the simple present passive, the structure is 'am/is/are + past participle.' The subject 'calculations' is plural, so we use 'are.' The correct passive construction here is 'are being carried out,' since it suggests an ongoing process typical of tasks that are systematically done using software."
+        },
+        {
+          "questionNo": 2,
+          "question": "Fill in the blank appropriately:<br> The critical documents ___ for the meeting last week, leading to a delay in decision-making.",
+          "options": [
+            "wasn’t submitted",
+            "weren't being submitted",
+            "hadn’t been submitted",
+            "weren't submitted"
+          ],
+          "answer": 3,
+          "explanation": "In the simple past passive, the structure is 'was/were + past participle.' Since 'documents' is plural, 'were' is used. The correct past participle of 'submit' is 'submitted.' Option d) 'weren't submitted' is correct because it directly states that the action did not occur."
+        },
+        {
+          "questionNo": 3,
+          "question": "Fill in the blank appropriately:<br> ___ the technical issues ___ by the engineering team before the deadline?",
+          "options": [
+            "Has, resolved",
+            "Have, been resolved",
+            "Had, been resolved",
+            "Have, resolving"
+          ],
+          "answer": 1,
+          "explanation": "In the present perfect passive, the structure is 'has/have + been + past participle.' Since 'technical issues' is plural, 'have' is correct, followed by 'been' and the past participle of 'resolve' ('resolved')."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank appropriately:<br> Why ___ the revised guidelines ___ before the policy change was implemented?",
+          "options": [
+            "hadn’t, been distributed",
+            "wasn’t, distributed",
+            "weren’t, being distributed",
+            "hadn’t, distributed"
+          ],
+          "answer": 0,
+          "explanation": "In the past perfect passive, the structure is 'had + not + been + past participle.' 'Hadn't been distributed' is the correct construction because it asks why the guidelines were not distributed in time."
+        },
+        {
+          "questionNo": 5,
+          "question": "Fill in the blank appropriately:<br> Why ___ the research findings ___ to the committee on time every quarter?",
+          "options": [
+            "aren't, presented",
+            "isn’t, being presented",
+            "haven't, been presented",
+            "isn't, presented"
+          ],
+          "answer": 0,
+          "explanation": "In the simple present passive interrogative negative, the structure is 'am/is/are + not + past participle.' 'Research findings' is plural, so 'aren't' is used."
+        },
+        {
+          "questionNo": 6,
+          "question": "Fill in the blank appropriately:<br> ___ the experimental results ___ by peer reviewers before they were published in the journal?",
+          "options": [
+            "Were, evaluating",
+            "Was, evaluated",
+            "Were, evaluated",
+            "Had, evaluated"
+          ],
+          "answer": 2,
+          "explanation": "In the simple past passive interrogative, the structure is 'was/were + past participle.' Since 'results' is plural, 'were' is used. The correct past participle of 'evaluate' is 'evaluated.'"
+        },
+        {
+          "questionNo": 7,
+          "question": "Fill in the blank appropriately:<br> The final proposal ___ by the board, resulting in a delay for the launch.",
+          "options": [
+            "hasn't been reviewed",
+            "hadn’t been reviewed",
+            "wasn't reviewed",
+            "haven't been reviewed"
+          ],
+          "answer": 0,
+          "explanation": "In the present perfect passive negative, the structure is 'has/have + not + been + past participle.' 'Proposal' is singular, so 'hasn't' is correct."
+        },
+        {
+          "questionNo": 8,
+          "question": "Identify the tense in the following sentence:<br> 'The proposal wasn’t accepted by the board yesterday.'",
+          "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+          ],
+          "answer": 1,
+          "explanation": "The sentence 'The proposal wasn’t accepted by the board yesterday' is in the simple past passive. The structure is 'was/were + not + past participle.'"
+        },
+        {
+          "questionNo": 9,
+          "question": "Identify the tense in the following sentence:<br> 'Despite multiple reminders, the critical documents weren’t delivered to the client on time.'",
+          "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+          ],
+          "answer": 1,
+          "explanation": "The sentence 'The critical documents weren’t delivered to the client on time' is in the simple past passive. The structure is 'was/were + not + past participle.'"
+        },
+        {
+          "questionNo": 10,
+          "question": "Identify the tense in the following sentence:<br> 'Have the new safety protocols been enforced at all sites, or are some still pending approval?'",
+          "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+          ],
+          "answer": 2,
+          "explanation": "The sentence 'Have the new safety protocols been enforced' is in the present perfect passive. The structure is 'has/have + been + past participle.'"
+        },
+        {
+          "questionNo": 11,
+          "question": "Identify the tense in the following sentence:<br> 'Hadn’t the test results been verified thoroughly before they were presented to the board?'",
+          "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+          ],
+          "answer": 3,
+          "explanation": "The sentence 'Hadn’t the test results been verified' is in the past perfect passive. The structure is 'had + not + been + past participle.'"
+        },
+        {
+          "questionNo": 12,
+          "question": "Identify the tense in the following sentence:<br> 'Due to unforeseen issues, the updated policies aren’t enforced uniformly across all departments.'",
+          "options": [
+            "Simple Present Passive",
+            "Simple Past Passive",
+            "Present Perfect Passive",
+            "Past Perfect Passive"
+          ],
+          "answer": 0,
+          "explanation": "The sentence 'The updated policies aren’t enforced' is in the simple present passive. The structure is 'am/is/are + not + past participle.'"
+        },
+        {
+          "questionNo": 13,
+          "question": "Spot the error in the following question:<br> 'The emails is sent to the recipients every morning.'",
+          "options": [
+            "'is sent' should be 'are sent'",
+            "'to the recipients' should be 'by the recipients'",
+            "'every morning' should be 'every mornings'",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "In the simple present passive, 'emails' is plural, so 'are' should be used instead of 'is.'"
+        },
+        {
+          "questionNo": 14,
+          "question": "Spot the error in the following question:<br> 'The instructions weren’t gave to the new employees during training.'",
+          "options": [
+            "'weren’t gave' should be 'weren’t given'",
+            "'employees' should be 'employee'",
+            "'during training' should be 'on training'",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "In the simple past passive, the correct past participle of 'give' is 'given.'"
+        },
+        {
+          "questionNo": 15,
+          "question": "Spot the error in the following question:<br> 'The tasks isn’t completed by the assigned team members.'",
+          "options": [
+            "'isn’t completed' should be 'aren’t completed'",
+            "'by the assigned team members' should be 'to the assigned team members'",
+            "'completed' should be 'completing'",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "In the simple present passive, 'tasks' is plural, so 'are' should be used instead of 'is.'"
+        },
+        {
+          "questionNo": 16,
+          "question": "Spot the error in the following question:<br> 'The documents haven’t being submitted to the department head yet.'",
+          "options": [
+            "'being' should be 'been'",
+            "'haven’t' should be 'hasn’t'",
+            "'to the department head' should be 'by the department head'",
+            "No error"
+          ],
+          "answer": 0,
+          "explanation": "In the present perfect passive, 'has/have + not + been + past participle' is the correct structure."
+        },
+        {
+          "questionNo": 17,
+          "question": "Choose the correct form of verb in the following sentence:<br> 'By the time the CEO arrived, all critical tasks ___ by the team.'",
+          "options": [
+            "were being completed",
+            "had been completed",
+            "had completed",
+            "was completed"
+          ],
+          "answer": 1,
+          "explanation": "In the past perfect passive, the structure is 'had + been + past participle.' 'Had been completed' is correct."
+        },
+        {
+          "questionNo": 18,
+          "question": "Choose the correct form of verb in the following sentence:<br> 'The necessary permissions ___ by the administration before the project can proceed.'",
+          "options": [
+            "are approved",
+            "is approving",
+            "are being approved",
+            "is being approved"
+          ],
+          "answer": 2,
+          "explanation": "In the present continuous passive, 'permissions' is plural, so 'are' is used. 'Are being approved' is correct."
+        },
+        {
+          "questionNo": 19,
+          "question": "Choose the correct form of verb in the following sentence:<br> '___ the confidential data ___ before being leaked to the media?'",
+          "options": [
+            "Was, encrypted",
+            "Were, encrypted",
+            "Had, encrypted",
+            "Was, being encrypted"
+          ],
+          "answer": 0,
+          "explanation": "In the simple past passive interrogative, 'data' is an uncountable noun, so 'was' is used."
+        },
+        {
+          "questionNo": 20,
+          "question": "Choose the correct form of verb in the following sentence:<br> 'By the time the investigation started, most of the evidence ___ by the rain.'",
+          "options": [
+            "had been destroyed",
+            "was being destroyed",
+            "had destroyed",
+            "had been destroying"
+          ],
+          "answer": 0,
+          "explanation": "In the past perfect passive, 'had + been + past participle' is the correct structure. 'Had been destroyed' is correct."
+        }
+      ]
+    }
+  ]
+}
